@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+### Contact me at: dabinett.ian@gmail.com
+
 <!--
 **IanDab47/IanDab47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
